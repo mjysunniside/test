@@ -1,0 +1,7 @@
+notebooks\
+
+data\
+
+.ipynb_checkpoints\
+
+*.log

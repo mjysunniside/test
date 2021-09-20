@@ -1,0 +1,13 @@
+,ID_x,Name_x,State,Address,Stage,ID_y,Name_y,Inverter,_merge
+0,224089,Christopher Walsh,CA,22461 Crescent Street,,5557855.0,Christopher Walsh,Enphase,both
+1,232072,Stephanie Watson,CA,994 Green Drive,,223945.0,Stephanie Watson,Enphase,both
+2,9945672,Billius Bill,CA,49026 Red Dog Road,,,,,left_only
+3,99944842,Sam Smith,CA,11671 Red Dog Road,,,,,left_only
+4,457621,Chilly Gonzalez,CA,11122 South Main Ave,,,,,left_only
+5,6696708,Bill Billingsly,CA,1206 Powhattan Avenue,,2207612.0,Bill Billingsly,SMA,both
+6,70602010,Charles England,CA,4467 East London St,,,,,left_only
+7,44027210,Greg Gregles,CA,96621 Greenwood St,,22225272.0,Greg Gregles,SolarEdge,both
+8,9021014,Simpathy Lee,CA,975 Gold Flat Road,,8009078.0,Simpathy Lee,Enphase,both
+9,7775765,Child Jackson,CA,22021 Greenwood Cir,,,,,left_only
+10,77000550,Simpler Smith,CA,444 East Main St,,,,,left_only
+11,2245654,Nicole Moss,CA,6012 Sierra Dr,,55702130.0,Nicole Moss,Hanwha,both
